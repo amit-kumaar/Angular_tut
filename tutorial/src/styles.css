@@ -1,6 +1,9 @@
 @import './styles/variables.css';
 @import './styles/theme-overrides.css';
 @import 'primeicons/primeicons.css';
+/* @import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeicons/primeicons.css"; */
+
 
 html,
 body,

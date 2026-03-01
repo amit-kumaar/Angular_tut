@@ -28,6 +28,7 @@ export interface Options {
 }
 
 export interface Products {
+  id?:number;
   items: Product[];
   total: number;
   page: number;
